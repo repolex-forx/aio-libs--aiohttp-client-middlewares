@@ -1,0 +1,7 @@
+[2026-10-10T19:01:52Z] === AST ITERATION 1 START | repo=aio-libs/aiohttp-client-middlewares sha=33cb9143 ===
+[2026-10-10T19:01:52Z] [iter=1] PHASE START: ast repo=aio-libs/aiohttp-client-middlewares sha=33cb9143
+[2026-10-10T19:01:52Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T19:02:06Z] [iter=1] AST chunks built count=1 triples=121971
+[2026-10-10T19:02:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/33cb914393c2fbab90c29d2b19d6238d933e0616/.complete
+[2026-10-10T19:02:06Z] [iter=1] PHASE END: ast elapsed_s=14 elapsed_min=0.2
+[2026-10-10T19:02:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

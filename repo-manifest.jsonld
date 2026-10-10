@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohttp-client-middlewares/commit/33cb914393c2fbab90c29d2b19d6238d933e0616",
       "git:hexsha": "33cb914393c2fbab90c29d2b19d6238d933e0616",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohttp-client-middlewares/commit/4976e57bbc785308ee407c1d5d6e1bf6e8518c84",
